@@ -9,8 +9,9 @@ This project analyzes sales data to extract actionable insights. Using Python's 
 - **Visualization:** Generated insightful graphs to represent sales trends and regional performance.
 
 ## Visualizations
-### Total Sales Over Time
-![Total Sales Over Time](path_to_your_image_directory/total_sales_over_time.png)
+### Sales Distribution by Gender
+![Sales Distribution by Gender][sales_by_gender](https://github.com/user-attachments/assets/7ed44f6f-555a-4163-9381-73c99f4b4e78)
+
 
 ### Sales by Region
 ![Sales by Region](path_to_your_image_directory/sales_by_region.png)
