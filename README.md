@@ -10,7 +10,8 @@ This project analyzes sales data to extract actionable insights. Using Python's 
 
 ## Visualizations
 ### Sales Distribution by Gender
-![Sales Distribution by Gender][sales_by_gender](https://github.com/user-attachments/assets/7ed44f6f-555a-4163-9381-73c99f4b4e78)
+![Sales Distribution by Gender](https://github.com/user-attachments/assets/7ed44f6f-555a-4163-9381-73c99f4b4e78)
+
 
 
 ### Sales by Region
