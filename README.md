@@ -13,7 +13,7 @@ This project analyzes sales data to extract actionable insights. Using Python's 
 ![Sales Distribution by Gender](https://github.com/user-attachments/assets/7ed44f6f-555a-4163-9381-73c99f4b4e78)
 
 ### Total Amount Spent by Age Group:
-![Total Amount Spent by Age Group:]![sales_by_age_group](https://github.com/user-attachments/assets/07f7ae52-fc6c-48ff-a1b8-9c8f2aae867c)
+![Total Amount Spent by Age Group:](https://github.com/user-attachments/assets/07f7ae52-fc6c-48ff-a1b8-9c8f2aae867c)
 
 
 ## Technologies Used
