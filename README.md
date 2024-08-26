@@ -54,10 +54,3 @@ This Sales Analytics project provides valuable insights into sales trends and re
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-### Instructions for Including Images
-1. Replace `path_to_your_image_directory/total_sales_over_time.png` and `path_to_your_image_directory/sales_by_region.png` with the actual paths where you upload these images in your repository.
-2. Upload the generated images (`total_sales_over_time.png` and `sales_by_region.png`) to your GitHub repository.
-
-This README will make your repository more appealing and informative, helping users quickly understand the scope and findings of your Sales Analytics project.
-
-
